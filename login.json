@@ -1,0 +1,76 @@
+{
+      "user": [
+            {
+                  "name": "Anjani",
+                  "lastname": "Prajapati",
+                  "password": "as@123",
+                  "profile": {
+                        "dicription": "Hii everyone !!! I am Anjnani",
+                        "dob": "10/11/2005",
+                        "hobbi": "batminter",
+                        "gender": "female"
+                  },
+                  "email/phone_no": "8470869987"
+            },
+            {
+                  "name": "Namrta",
+                  "lastname": "Raikvar",
+                  "password": "Nam@123",
+                  "profile": {
+                        "dicription": "Hello everyone I am Namrta",
+                        "dob": "3/9/2002",
+                        "hobbi": "Dance",
+                        "gender": "female"
+                  },
+                  "email/phone_no": "namrta21navgurukul@gmail.org"
+            },
+            {
+                  "name": "Ranjani",
+                  "lastname": "Prajapati",
+                  "password": "ran@123",
+                  "profile": {
+                        "dicription": " Hii guys I am Ranjani",
+                        "dob": "2/10/2007",
+                        "hobbi": "dance",
+                        "gender": "femele"
+                  },
+                  "email/phone_no": "7275675442"
+            },
+            {
+                  "name": "Soudamini",
+                  "lastname": "malik",
+                  "password": "malik@123",
+                  "profile": {
+                        "dicription": "HIi guy Ianm soudamini",
+                        "dob": "23/1/2001",
+                        "hobbi": "cricter",
+                        "gender": "female"
+                  },
+                  "email/phone_no": "7853053804"
+            },
+            {
+                  "name": "runu",
+                  "lastname": "rana",
+                  "password": "Runu@1234",
+                  "profile": {
+                        "dicription": "hello i am Runu",
+                        "dob": "6/5/1999",
+                        "hobbi": "dancing",
+                        "gender": "female"
+                  },
+                  "email/phone_no": "8144932515"
+            },
+            {
+                  "name": "kanimi",
+                  "lastname": "singh",
+                  "password": "ka@12",
+                  "profile": {
+                        "dicription": "hii   i am kamini",
+                        "dob": "1/2/2003",
+                        "hobbi": "dance",
+                        "gender": "female"
+                  },
+                  "email/phone_no": "1234543543"
+            }
+      ]
+}
